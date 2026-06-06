@@ -2293,6 +2293,14 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.twilio.com">website</a></p>
 </div>
 
+### TWZRD Agent Intel
+<div><a href="https://intel.twzrd.xyz/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>Trust-scoring MCP server for x402 agents on Solana. Free preflight checks + signed trust receipts via USDC micropayment (&lt;1s settlement), enabling agents to verify tool trustworthiness before acting on external data.</p>
+
+<p><a href="https://intel.twzrd.xyz/">website</a> | <a href="https://intel.twzrd.xyz/mcp">mcp endpoint</a></p>
+</div>
+
 ### TypeChat
 <div><a href="https://github.com/microsoft/TypeChat"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/microsoft/TypeChat"><img src="https://img.shields.io/github/stars/microsoft/TypeChat?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 8,536 stars (Updated: 2025-07-30)</p>
@@ -2301,16 +2309,6 @@ Here's an awesome list of AI agents:
 <p>TypeChat is a library that facilitates building natural language interfaces by using schema engineering as an alternative to traditional function calling in LLMs, avoiding JSON schema-based constraints</p>
 
 <p><a href="https://github.com/microsoft/TypeChat">github</a></p>
-</div>
-
-### TWZRD Agent Intel
-<div><a href="https://intel.twzrd.xyz"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
-
-<p>🔐 Security Infrastructure</p>
-
-<p>TWZRD Agent Intel is a Solana-native MCP server for AI agent trust verification. It provides free preflight on-chain trust scoring and paid signed x402 trust receipts anchored to Solana transactions. Streamable-HTTP MCP endpoint compatible with any MCP-capable agent framework.</p>
-
-<p><a href="https://intel.twzrd.xyz">website</a> | <a href="https://intel.twzrd.xyz/mcp">mcp endpoint</a> | <a href="https://github.com/twzrd-sol/wzrd-final">github</a></p>
 </div>
 
 ### uAgents by Fetch AI
